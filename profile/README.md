@@ -1,12 +1,13 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
+<p align="left">
+  This is the github organization for the Lotr Renewed Extended Minecraft mod. This all public repositories for the mod is contained here.
+</p>
 
-**Here are some ideas to get you started:**
+- The mod can current be downloaded from [CurseForge](https://legacy.curseforge.com/minecraft/mc-mods/lotr-renewed-extended) and [Modrinth](https://modrinth.com/mod/lotr-renewed-extended)
+- The repository for localisation the mod is here: [LotrExtendedTeam/Extended-Localisation](https://github.com/LotrExtendedTeam/Extended-Localisation)
+- The repository hosting the [Static Wiki Website](https://lotrextendedteam.github.io/Extended-Wiki/) is here: [LotrExtendedTeam/Extended-Wiki](https://github.com/LotrExtendedTeam/Extended-Wiki)
+- For compatibality reasons, [Extended's Update Checker](https://github.com/maximuslotro/ModUpdateChecker) is here.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+-How to reach us:
+<img src="https://img.icons8.com/color/48/000000/discord.png" alt="discord" width="20" height="20" /> https://discord.gg/eu7xCnpQAS
