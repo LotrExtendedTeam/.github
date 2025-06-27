@@ -6,6 +6,7 @@
 
 - The mod can current be downloaded from [CurseForge](https://legacy.curseforge.com/minecraft/mc-mods/lotr-renewed-extended) and [Modrinth](https://modrinth.com/mod/lotr-renewed-extended)
 - The repository for localisation the mod is here: [LotrExtendedTeam/Extended-Localisation](https://github.com/LotrExtendedTeam/Extended-Localisation)
+  - With a tracker website accessable here [Localization Tracker Website](https://lotrextendedteam.github.io/Extended-Localization/)
 - The repository hosting the [Static Wiki Website](https://lotrextendedteam.github.io/Extended-Wiki/) is here: [LotrExtendedTeam/Extended-Wiki](https://github.com/LotrExtendedTeam/Extended-Wiki)
 - For compatibality reasons, [Extended's Update Checker](https://github.com/maximuslotro/ModUpdateChecker) is here.
 
