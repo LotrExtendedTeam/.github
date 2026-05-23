@@ -25,7 +25,7 @@ Community-driven translations and language support:
 
 Static documentation site covering gameplay, features, and guides:
 
-* Website: https://lotrextendedteam.github.io/Extended-Wiki/
+* Website: https://wiki.lotrextended.net/
 * Repository: https://github.com/LotrExtendedTeam/Extended-Wiki
 
 ### 🔄 Update Checker
